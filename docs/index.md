@@ -18,4 +18,6 @@
 ***
 
 
-## 
+## Le 07/09 :
+
+- Organiser [un classeur numérique pour la NSI sur GitHub](./github) -> == == ;

@@ -18,6 +18,8 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - Cahier de texte : index.md
+    - Environnement :
+      - GitHub+GitPod : github.md
     - Présentation SI : http://si.lycee.ecmorlaix.fr/
     - 1SI_2021-2022 : https://ericecmorlaix.github.io/1SI_2021-2022/
     - TSI-NSI_2022-2023 : https://ericecmorlaix.github.io/TSI-NSI_2022-2023/
