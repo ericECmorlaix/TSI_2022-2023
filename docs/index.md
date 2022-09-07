@@ -18,6 +18,16 @@
 ***
 
 
-## Le 07/09 :
+## Le 07/09 (2h)
 
-- Organiser [un classeur numérique pour la NSI sur GitHub](./github) -> == == ;
+=== "CONTENU DE SÉANCE"
+
+    - **Organiser** [un classeur numérique pour la SI sur GitHub](./github) -> ==**Reprendre** en main l'environnement de Visual Studio Code via GitPod depuis votre iPad et depuis un des PC du labo de SI pour gérer des notebook jupyter== ;
+
+    - **Refaire** l'étude des actions mécaniques du système [béquille de moto](./AM/Actions_Mecaniques-Bequille_De_Moto.pdf) -> ==**Compléter** le [notebook jupyter](https://nbviewer.org/github/ericECmorlaix/TSI_2022-2023/blob/main/docs/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb)== ;
+
+    [:fontawesome-solid-download: Télécharger le notebook : Actions_Mecaniques-Bequille_De_Moto.ipynb](https://ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb){ .md-button .md-button--primary }
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** l'étude des actions mécaniques du système [béquille de moto](./AM/Actions_Mecaniques-Bequille_De_Moto.pdf) et **transmettre** votre [notebook jupyter](https://nbviewer.org/github/ericECmorlaix/TSI_2022-2023/blob/main/docs/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb) complété par [mail] ;
