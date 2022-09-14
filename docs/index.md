@@ -17,8 +17,22 @@
 
 ***
 
+## Le 14/09 (2h)
 
-## Le 07/09 (2h)
+=== "CONTENU DE SÉANCE"
+
+    - **Corriger** l'étude des actions mécaniques du système [béquille de moto](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb){target=_blank} ;
+    
+    - **Faire** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
+
+    [:fontawesome-solid-download: Télécharger le notebook : Actions_Mecaniques-Chargeur_Telescopique.ipynb](https://ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){ .md-button .md-button--primary }
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **transmettre** votre notebook jupyter complété par [mail] ;
+
+
+## Les 07 et 08/09 (2h + 1h)
 
 === "CONTENU DE SÉANCE"
 
