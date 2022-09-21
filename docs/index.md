@@ -16,8 +16,20 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Les 21 et 22/09 (2h + 1h)
 
-## Le 14/09 (2h)
+=== "CONTENU DE SÉANCE"
+
+    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-Un_BN_pour_la_communication_en_reseau.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/CI/Network-Un_BN_pour_la_communication_en_reseau.ipynb){target=_blank} ;
+
+    [:fontawesome-solid-download: Télécharger le notebook : Network-Un_BN_pour_la_communication_en_reseau.ipynb)](https://ericecmorlaix.github.io/TSI_2022-2023/CI/Network-Un_BN_pour_la_communication_en_reseau.ipynb){ .md-button .md-button--primary }
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} et **transmettre** votre notebook jupyter complété par [mail] ;
+
+***
+## Les 14 et 15/09 (2h + 1h)
 
 === "CONTENU DE SÉANCE"
 
