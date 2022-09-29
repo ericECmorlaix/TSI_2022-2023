@@ -16,7 +16,18 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Les 21 et 22/09 (2h + 1h)
+## Le 29/09 (1h)
+
+=== "CONTENU DE SÉANCE"
+
+    - Cours et exercices de synthèse sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CI/FC_Reseaux_TCP-IP.pdf){target=_blank} et application au [Tri Postal](./CI/TriPostal.pdf){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CI/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application [Tri Postal](./CI/TriPostal.pdf){target=_blank} ;
+
+***
+## Les 21, 22 et 28/09 (2h + 1h + 2h)
 
 === "CONTENU DE SÉANCE"
 
