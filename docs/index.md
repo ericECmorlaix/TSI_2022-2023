@@ -16,6 +16,21 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 05/10
+
+=== "CONTENU DE SÉANCE"
+
+    - Info du [bac](./bac_SI) ;
+    - Correction des exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CI/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application [Tri Postal](./CI/TriPostal.pdf){target=_blank} ;
+    - Vérification de l'exactitude dans la prise de notes pour l'étude des actions mécaniques du système [béquille de moto](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Bequille_De_Moto.ipynb){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les exercices sur les [réseaux informatiques avec le protocole de communication TCP/IP](./CI/FC_Reseaux_TCP-IP.pdf){target=_blank} et l'application [Tri Postal](./CI/TriPostal.pdf){target=_blank} ;
+    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
+
+
+***
 ## Le 29/09 (1h)
 
 === "CONTENU DE SÉANCE"
