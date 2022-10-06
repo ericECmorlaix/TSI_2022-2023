@@ -16,6 +16,16 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 06/10
+
+    - **Faire** l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf) ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** en DM l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf) ;
+
+
+***
 ## Le 05/10
 
 === "CONTENU DE SÉANCE"
