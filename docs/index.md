@@ -18,11 +18,15 @@
 ***
 ## Le 06/10
 
-    - **Faire** l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf) ;
+=== "CONTENU DE SÉANCE"
+
+    - **Finir** l'application des communications réseaux du [Tri Postal](./CI/TriPostal.pdf){target=_blank} ;
+    - **Commencer** l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** en DM l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf) ;
+    - **Finir** en DM l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf){target=_blank} ;
+    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
 
 
 ***
