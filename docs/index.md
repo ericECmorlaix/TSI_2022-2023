@@ -16,6 +16,19 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 12/10
+
+=== "CONTENU DE SÉANCE"
+
+    - [Modélisation de l'équilibre d'un véhicule à roues et applications au buggy T2M Black Pirate](./AM/modelisation_vehicule.md){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** en DM l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf){target=_blank} ;
+    - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
+
+
+***
 ## Le 06/10
 
 === "CONTENU DE SÉANCE"
