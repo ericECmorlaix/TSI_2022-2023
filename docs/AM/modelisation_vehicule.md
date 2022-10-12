@@ -16,21 +16,13 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ##### Schéma
 
-...
-
-...
-
-...
+![](./Schema-vehicule-plat.jpg){.center width=50%}
 
 
 ##### BAME (Bilan des Actions Mécaniques Extérieures)
 
-...
 
-...
-
-...
-
+![](./BAME-vehicule-plat.jpg){.center width=50%}
 
 ??? abstract "Principe fondamental de la statique"
 
@@ -39,13 +31,13 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     - la résultante est nulle $\sum\overrightarrow{F_{(AME \to S)}} = \overrightarrow{0}$
     - le moment résultant en un point (P) donné est nul $\sum\overrightarrow{M_{P(AME \to S)}} = \overrightarrow{0}$
 
+??? tip "Calcul du moment d'une force"
+
+    ![](Calcul_moment.jpg){.center width=50%}
+
 ##### Résolution
 
-...
-
-...
-
-...
+![](./Resolution-vehicule-plat.jpg){.center width=90%}
 
 ??? exemple "Application"
 
@@ -71,20 +63,12 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ##### Schéma
 
-...
-
-...
-
-...
+![](Schema-vehicule-pente.jpg){.center width=60%}
 
 
 ##### BAME (Bilan des Actions Mécaniques Extérieures)
 
-...
-
-...
-
-...
+![](BAME-vehicule-pente.jpg){.center width=60%}
 
 ??? abstract "Principe fondamental de la statique"
 
@@ -99,17 +83,11 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
     #### Modèle d'une caisse
 
-    ...
-
-
-    ...
-
-
-    ...
+    ![](./Frottement.jpg){.center width=60%}
 
     !!! note "Le coefficient de frottement :"
 
-        - est indépendant de l’intensité de la force de contact  .
+        - est indépendant de l’intensité de la force de contact (pression) .
 
         - est indépendant de l’étendue des surfaces de contact.
 
@@ -122,13 +100,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ##### Résolution
 
-...
-
-
-...
-
-
-...
+![](./Resolution-vehicule-pente.jpg){.center width=60%}
 
 ??? exemple "Application"
 
