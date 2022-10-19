@@ -35,10 +35,6 @@
     ![](treuil_graphe.png){.center width=60%}
 
     - Caractériser le mouvement de la charge pour chacune des trois phases.
-    - Isoler la charge et déterminer la tension du câble pour chaque phase. 
-
-
-
 
 
 
@@ -113,7 +109,7 @@
 
     ![](treuil_graphe.png){.center width=60%}
 
-    - Isoler la charge et déterminer la tension du câble pour chaque phase en considérant $g=10 m/s^2$. 
+    - Isoler la charge et déterminer la tension du câble pour chaque phase en considérant l'accélération de la pesanteur $g=10 m/s^2$. 
 
 ??? example "Application : **[T2M Buggy Black Pirate](http://www.t2m-rc.fr/de/modellbau-t2m-black-pirate-8-rtr-ohne-akku-T4903.html){target=_blank}**"
 

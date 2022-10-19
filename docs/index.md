@@ -28,14 +28,14 @@
 
     - **Finir** en DM l'extrait du sujet type bac : [Camper_trolley](./SE/Revisions_TSI-Camper_trolley.pdf){target=_blank} ;
     - **Rendre** par [mail] le notebook jupyter complété de l'étude des actions mécaniques du système [Chargeur Télescopique](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI_2022-2023/AM/Actions_Mecaniques-Chargeur_Telescopique.ipynb){target=_blank} ;
-    - **Finir** les [applications au buggy T2M Black Pirate](./AM/modelisation_vehicule.md){target=_blank} ;
+    - **Finir** les [applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
     - **Répondre** aux questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
 
 ## Les 14 et 17/10 
 
 === "CONTENU DE SÉANCE"
 
-    - **Faire** les [applications au buggy T2M Black Pirate](./AM/modelisation_vehicule.md){target=_blank} ;
+    - **Faire** les [applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
     - **Répondre** aux questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
@@ -49,7 +49,7 @@
 
 === "CONTENU DE SÉANCE"
 
-    - [Modélisation de l'équilibre d'un véhicule à roues et applications au buggy T2M Black Pirate](./AM/modelisation_vehicule.md){target=_blank} ;
+    - [Modélisation de l'équilibre d'un véhicule à roues et applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
