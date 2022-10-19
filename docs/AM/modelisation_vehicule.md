@@ -39,7 +39,7 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
 ![](./Resolution-vehicule-plat.jpg){.center width=90%}
 
-??? exemple "Application"
+??? example "Application"
 
     ![Buggy_Black_Pirate](Buggy_Black_Pirate/T4903_rearleft.jpg){align=left width=30%}![Buggy_Black_Pirate](Buggy_Black_Pirate/T4903.jpg){align=right width=30%}
     **[T2M Buggy Black Pirate](http://www.t2m-rc.fr/de/modellbau-t2m-black-pirate-8-rtr-ohne-akku-T4903.html){target=_blank}**
@@ -98,11 +98,15 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
 
     > Pour aller plus loin en [Tribologie](https://www.futura-sciences.com/sciences/dossiers/physique-matiere-materiaux-fait-monde-996/page/4/){target=_blank}
 
+??? tip "Pourcentage d'une pente = tangente de l'angle"
+
+    ![](pourcentage_pente.jpg){.center width=50%}
+    
 ##### Résolution
 
-![](./Resolution-vehicule-pente.jpg){.center width=60%}
+![](./Resolution-vehicule-pente.jpg){.center width=90%}
 
-??? exemple "Application"
+??? example "Application"
 
     ![Buggy_Black_Pirate](Buggy_Black_Pirate/T4903_rearleft.jpg){align=left width=30%}![Buggy_Black_Pirate](Buggy_Black_Pirate/T4903.jpg){align=right width=30%}
     **[T2M Buggy Black Pirate](http://www.t2m-rc.fr/de/modellbau-t2m-black-pirate-8-rtr-ohne-akku-T4903.html){target=_blank}**
@@ -111,3 +115,5 @@ les deux roues avant sont égales. De même pour les actions mécaniques sur les
     Quel est le coefficient d'adhérence minimale nécessaire au maintien en équilibre du buggy sur cette pente.
     
     ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.png){.center width=50%}
+    
+    ![](Buggy_Black_Pirate/Buggy_T2M_Black_Pirate_pente.jpg){.center width=50%}
