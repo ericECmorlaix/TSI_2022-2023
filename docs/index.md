@@ -21,15 +21,14 @@
 === "CONTENU DE SÉANCE"
 
     - [Etudes du comportement dynamique d'un solide en rotation et complément énergétique](./AM/dynamique_rotation.md){target=_blank} => ==Correction de l'application au Treuil== ;
-
-    - Correction [des études du comportement dynamique d'un buggy en translation](./AM/dynamique_translation.md){target=_blank} ;
-    
+           
     - [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
 
 === "TRAVAIL À FAIRE"
     - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf);
     - ==**Se préparer** pour une évaluation de dynamique en translation et en rotation pour le 17/11== ;
     - **Finir** les [applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
+    - **Finir** [les études du comportement dynamique d'un buggy en translation](./AM/dynamique_translation.md){target=_blank} ;
     - **Répondre** aux questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
     - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
     
