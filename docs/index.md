@@ -15,7 +15,88 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 ***
-## Le 18/11
+## Du 05 au .../12
+
+=== "CONTENU DE SÉANCE"
+
+    - Lire [la fiche de cours Réseaux et Communications](./CI/FC_Reseaux_communication.pdf){target="_blank"} ;
+    - Faire [le TP_Reseau_DMX](./CI/DMX/TP_Reseau_DMX.pdf){target="_blank"} à l'aide du matériel et des documents :
+        - [Document_ressource-Le_DMX_512](./CI/DMX/Document_ressource-Le_DMX_512.pdf){target="_blank"} ;
+        - [Notice_Imove](./CI/DMX/Notice_Imove.pdf){target="_blank"} ;
+        - [Documentation_iMove_5S_FR](./CI/DMX/Documentation_iMove_5S_FR.pdf){target="_blank"} ;
+    
+    - Lire le cours et faire les exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"} ;
+
+=== "TRAVAIL À FAIRE" 
+    
+    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) -> ==Remmettre un compte rendu au format MarkDown par équipe== ;
+    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf);
+    - **Faire**, dans cet ordre, les parties A et E, puis C du sujet [Lyre Imove 5S](./CI/DMX/LyreImove5S.pdf){target="_blank"} ​;
+
+## Le 02/12
+
+=== "CONTENU DE SÉANCE"
+
+    - Certification PIX ;           
+    - Poursuivre le TAF en autonomie ;
+
+=== "TRAVAIL À FAIRE" 
+    
+    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
+    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf);    
+
+***
+
+## Les 30/11 et 01/12
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction Hobot ;           
+    - Colle orale par équipe sur les questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf)
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
+    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf); 
+
+
+## Le 28/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation Hobot (équilibre avec frottement) ;           
+    - Poursuivre le TAF en autonomie ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
+    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf); 
+
+## Le 25/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Colle orale par équipe sur les questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf) 
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
+    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf);    
+***
+## Les 23 et 24/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction évaluation de dynamique en translation et en rotation ;  
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir** les questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
+    - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
+    - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf);    
+***
+
+## Le 18 et 21/11
 
 === "CONTENU DE SÉANCE"
 
@@ -24,7 +105,6 @@
 
 === "TRAVAIL À FAIRE"
     
-    - **Finir** les [applications au buggy T2M Black Pirate](./AM/statique_vehicule.md){target=_blank} ;
     - **Finir** les questions 14 à 19 du sujet original du [robot Camper Trolley](./SE/Camper_Sujet-2012.pdf){target=_blank} ;
     - **Finir** le [TD de démystification de l'énergie libre](./AM/FREE_ENERGIE.pdf) ;
     - [Exercices complémentaires de dynamique en translation](./AM/dynamique_en_translation_exercice.pdf);    
