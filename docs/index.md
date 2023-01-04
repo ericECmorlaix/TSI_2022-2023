@@ -14,6 +14,40 @@
 
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+
+***
+<!-- 
+- Régulation et asservivement :
+    - **lire** [Introduction_notions](./Regulation_Asservissement/Introduction_notions.pdf){target="_blank"} et **comprendre** les [Exemples](./Regulation_Asservissement/Exemples.pdf){target="_blank"} ;
+    - **lire** le [Cours](./Regulation_Asservissement/Cours.pdf){target="_blank"} et faire les [Exercices](./Regulation_Asservissement/Exercices.pdf){target="_blank"} ;
+
+    - et regarder aussi les vidéo :
+
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uqaMfvSmiI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Application aux questions 7 et 8 du sujet [Xtrack](./pdf/Camera_Mobile.pdf){target="_blank"} ;
+
+- **Faire** les questions non traitées du sujet [MELODY](./pdf/MELODY.pdf){target="_blank"} en particulier Q1.7 à Q1.9 et Q1.22 ;
+ -->
+
+
+## Du 04/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Réalisation dans Obsidian avec le module complémentaire [Spaced Repetition](https://www.stephenmwangi.com/obsidian-spaced-repetition/){target=_blank} de [flashcards partagées](https://codimd.apps.education.fr/RSFZVPvBThSooEjjxfdEjA){target=_blank} pour réviser...
+
+    - Faire [le TP de Régulation Thermique](./RA/TP_thermique/RegulationThermique-TP.pdf){target="_blank"} à l'aide des documents et fichiers `.psimsch`:
+        - [Document ressources](./RA/TP_thermique/RegulationThermique-DR.pdf){target="_blank"} ;
+        - [régulation de température T.O.R](./RA/TP_thermique/regulation_de_temperature_TOR.psimsch) ;
+        - [régulation de température proportionnelle intégrale](./RA/TP_thermique/regulation_de_temperature_proportionnelle_integrale.psimsch) ;    
+
+=== "TRAVAIL À FAIRE" 
+        
+    - Rendre les parties A et E, puis C du sujet [Lyre Imove 5S](./CI/DMX/LyreImove5S.pdf){target="_blank"} et les exercices concernant [Les capteurs et la chaîne d'acquisition](./CI/Acquisition_Capteurs-Cours-Exercices.pdf){target="_blank"} ressource [Capteur_US-HC-SR04.pdf](./CI/Capteur_US-HC-SR04.pdf){target="_blank"} ;
+
 ***
 ## Du 05 au .../12
 
