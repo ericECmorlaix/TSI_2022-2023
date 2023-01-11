@@ -19,8 +19,9 @@
 ## Les 11 et 12/01
 === "CONTENU DE SÉANCE" 
     - Régulation et asservivement :
-        - **lire** [Introduction_notions](./RA/Introduction_notions.pdf){target="_blank"} et **comprendre** les [Exemples](./RA/Exemples.pdf){target="_blank"} ;
-        - **lire** le [Cours](./RA/Cours.pdf){target="_blank"} et faire les [Exercices](./RA/Exercices.pdf){target="_blank"} ;
+        - **lire** [Introduction_notions](./RA/Introduction_notions.pdf){target="_blank"} ;
+        - parallèlement, **lire** le [Cours](./RA/Cours.pdf){target="_blank"} et **comprendre** les [Exemples](./RA/Exemples.pdf){target="_blank"} ;
+        - faire les [Exercices](./RA/Exercices.pdf){target="_blank"} ;
 
     - Application aux questions 7 et 8 du sujet [Xtrack](./SE/Camera_Mobile.pdf){target="_blank"} ;
 
