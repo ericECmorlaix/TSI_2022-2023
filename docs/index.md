@@ -16,24 +16,26 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-<!-- 
-- Régulation et asservivement :
-    - **lire** [Introduction_notions](./Regulation_Asservissement/Introduction_notions.pdf){target="_blank"} et **comprendre** les [Exemples](./Regulation_Asservissement/Exemples.pdf){target="_blank"} ;
-    - **lire** le [Cours](./Regulation_Asservissement/Cours.pdf){target="_blank"} et faire les [Exercices](./Regulation_Asservissement/Exercices.pdf){target="_blank"} ;
+## Les 11 et 12/01
+=== "CONTENU DE SÉANCE" 
+    - Régulation et asservivement :
+        - **lire** [Introduction_notions](./RA/Introduction_notions.pdf){target="_blank"} et **comprendre** les [Exemples](./RA/Exemples.pdf){target="_blank"} ;
+        - **lire** le [Cours](./RA/Cours.pdf){target="_blank"} et faire les [Exercices](./RA/Exercices.pdf){target="_blank"} ;
 
-    - et regarder aussi les vidéo :
+    - Application aux questions 7 et 8 du sujet [Xtrack](./SE/Camera_Mobile.pdf){target="_blank"} ;
 
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uqaMfvSmiI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+=== "TRAVAIL À FAIRE"
 
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    - **regarder** les vidéo :
 
-- Application aux questions 7 et 8 du sujet [Xtrack](./pdf/Camera_Mobile.pdf){target="_blank"} ;
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uqaMfvSmiI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- **Faire** les questions non traitées du sujet [MELODY](./pdf/MELODY.pdf){target="_blank"} en particulier Q1.7 à Q1.9 et Q1.22 ;
- -->
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qQxnm6jAkNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    - **Faire** les questions non traitées du sujet [MELODY](./SE/MELODY.pdf){target="_blank"} en particulier Q1.7 à Q1.9 et Q1.22 ;
 
 
-## Du 04/01
+## Du 04 au 09/01
 
 === "CONTENU DE SÉANCE"
 
